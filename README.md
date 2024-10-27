@@ -17,7 +17,7 @@ This is a Django-based application for detecting gender from given data. The app
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/genderDetection.git
+    git clone https://github.com/JamesMungai254/genderDetection.git
     ```
 
 2. Navigate to the project directory:
